@@ -5,8 +5,8 @@ var lang = 'en';
 
 //change weather params here:
 var weatherParams = {
-    'q':'San Francisco,California',
-    'units':'metric',
+    'q':'San Francisco',
+    'units':'imperial',
     'lang':lang
 };
 
